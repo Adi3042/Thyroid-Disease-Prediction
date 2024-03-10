@@ -4,5 +4,19 @@ matplotlib
 numpy
 flask
 scikit-learn
-
+ydata-profiling
+ipykernel
+ipywidgets
+pymongo
+boto3
+datetime
+dataclasses
+pyyaml
+pytest-shutil
+urllib3==1.26.7
+Werkzeug==2.0.2
+requests==2.26.0
+imbalanced-learn
+mlxtend
+scipy
 # -e .
